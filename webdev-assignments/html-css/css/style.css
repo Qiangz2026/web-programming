@@ -50,8 +50,8 @@ main img{
     padding:0;
 }
 
-main h1{
-    font-family: "Roboto", sans-serif;
+.home-container h1{
+    font-family: "Roboto", Arial，sans-serif;
     text-align: center;
     margin-top: 3rem;
 }
@@ -111,7 +111,7 @@ main p{
   box-sizing: border-box;
 }
 
-.contact-main h2 {
+.contact-main h1 {
   margin: 0 0 1.2rem 2rem;
   font-size: 2rem;
 }
@@ -130,9 +130,9 @@ main p{
   margin-left: 2rem;
 }
 
-.info-map iframe {
-  width: 59%;        
-  height: 380px;  
-  margin-right: 2rem; 
-  margin-bottom: 8rem;              
+.info-map img {
+  width: 59%;
+  height: auto;       
+  margin-right: 2rem;
+  margin-bottom: 8rem         
 }
